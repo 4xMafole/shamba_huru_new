@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1058645063759",
+    "project_id": "shamba-huru",
+    "storage_bucket": "shamba-huru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058645063759:android:9db6d3398ec23751a9523a",
+        "android_client_info": {
+          "package_name": "com.milanzi.shamba_huru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058645063759-7o7jtvsou5ldvo2bsbdq7mk1kjfaue4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.milanzi.shamba_huru",
+            "certificate_hash": "a097ba8429df6bd1de42ecad085e03c04eb7ef12"
+          }
+        },
+        {
+          "client_id": "1058645063759-j1cai2e5svn2k0lf0kvtjr8csrder8lc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAJkosb98_3JjQo7VzlzUyhyZv1lclwy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058645063759-j1cai2e5svn2k0lf0kvtjr8csrder8lc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1058645063759-0gdquaafs0e88ok8vaps5a0bd0ajtiu6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shambaHuru"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
